@@ -1,6 +1,6 @@
 ### Quasar Name Service
 This is a project is based on the Polygon Network, where domain registration costs are at reasonable gas fee. Furthermore, you can mint your domain as NFT too
-Here some stuffs...
+Here some screenshots ...
 
 ![Screenshot from 2022-10-05 01-04-51](https://user-images.githubusercontent.com/73515250/194104653-8063a0ad-7865-43cc-95db-bae6bbddb2ca.png)
 
